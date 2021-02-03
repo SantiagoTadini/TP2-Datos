@@ -1,0 +1,9 @@
+time-travelling
+
+arbol de decision
+redes neuronales
+knn
+random forests
+gradient boosting
+
+cross validation
